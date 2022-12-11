@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class actionsdrangdrop {
 
 	public static void main(String[] args) {
-System.setProperty("webdriver.chrome.driver","C:\\Users\\91738\\Documents\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\sudhakar pawale\\Desktop\\Testing Course\\VELOCITY\\chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
 		
@@ -19,16 +19,16 @@ System.setProperty("webdriver.chrome.driver","C:\\Users\\91738\\Documents\\chrom
 		
 	    driver.navigate().to("https://jqueryui.com/droppable/");
 	    
-	 List<WebElement> element = driver.findElements(By.tagName("iframe"));
+	    List<WebElement> element = driver.findElements(By.tagName("iframe"));
 	
 //	    int element = driver.findElements(By.tagName("iframe")).size();
 //	    System.out.println(element);
 	   
-	   int sizeofelements =element.size();
+	    int sizeofelements =element.size();
 	   
-	   System.out.println(sizeofelements);
+	    System.out.println(sizeofelements);
 	   
-	   System.out.println("completed");
+	    System.out.println("completed");
 		
 
 	}

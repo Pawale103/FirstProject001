@@ -10,7 +10,7 @@ public class actionslider {
 
 	public static void main(String[] args) {
 		
-		System.setProperty("webdriver.chrome.driver","C:\\Users/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\sudhakar pawale\\Desktop\\Testing Course\\VELOCITY\\chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
 		
