@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FirstProject001</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Drivers/BOOK.xlsx</name>
+			<type>1</type>
+			<location>C:/Users/91738/Desktop/Testing Course/automation/BOOK.xlsx</location>
+		</link>
+		<link>
+			<name>Drivers/chromedriver.exe</name>
+			<type>1</type>
+			<location>C:/Users/91738/Documents/chromedriver.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
