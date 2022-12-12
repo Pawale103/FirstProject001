@@ -25,7 +25,7 @@ public class classprime {
 	}
 
 	public static void main(String[] args) {
-		prime(40);
+		prime(43);
 	
 		
 		

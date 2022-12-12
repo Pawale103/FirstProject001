@@ -8,6 +8,7 @@ public class forloop {
 		{
 			System.out.println(a);
 		}
+		System.out.println("**********************************************");
 		for(int a =20;a>=1;a--)
 		{
 			System.out.println(a);

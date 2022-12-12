@@ -18,6 +18,19 @@ public class collection1 {
 		
 		
 		System.out.println(list);
+		
+		String str="vel  vel ocity ";
+		
+		int count=0;
+		
+		for(int i=str.length()-1;i>=0;i--)
+		{
+			if(str.charAt(i)==' ')
+			{
+				count++;
+			}
+		}
+		System.out.println(count);
 
 	}
 
