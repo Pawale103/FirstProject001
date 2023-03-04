@@ -20,7 +20,7 @@ public class arrayprint {
 		     System.out.println(Arrays.toString(i));	
 	
 			}
-		
+		//
 		for(int var:i)
 		{
 			System.out.print(var);
