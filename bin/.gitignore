@@ -1,3 +1,14 @@
+/child.class
+/child1.class
+/child2.class
+/child3.class
+/locators/
+/oppsconceptspakage/
+/overrideclass.class
+/parent.class
+/parentmethod.class
+/pom/
+/pom1/
 /practicepackage/
 /printclass.class
 /readexeldata/
@@ -11,3 +22,5 @@
 /testngpackage/
 /windowhandle/
 /youtubepractice/
+/actionpackage/
+/arrays/

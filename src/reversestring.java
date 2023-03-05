@@ -21,12 +21,13 @@ public class reversestring {
 //		
 		
 
-		String str="String to be reversed";
+		String org="sodjfoisjdoifj";
+		
 		String rev="";
 		
-		for(int i=str.length()-1;i>=0;i--)
+		for(int i=org.length()-1;i>=0;i--)
 		{
-			rev=rev+str.charAt(i);
+			rev=rev+org.charAt(i);
 		}
 		System.out.println(rev);
 		

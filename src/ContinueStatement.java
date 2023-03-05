@@ -22,6 +22,17 @@ public class ContinueStatement {
 			}
 		}
 		
+		for(int j=20;j>=1;j--)
+		{
+			if(j==9)
+			{
+				continue;
+			}
+			{
+				System.out.println("The value of J is="+j);
+			}
+		}
+		
 //		int i[]=new int[4];
 //		i[0]=1;
 //		i[1]=2;

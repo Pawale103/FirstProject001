@@ -39,5 +39,14 @@
 	<classpathentry kind="lib" path="C:/Users/sudhakar pawale/Desktop/Testing Course/VELOCITY/poi-5.0.0/xmlbeans-4.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sudhakar pawale/Desktop/Testing Course/VELOCITY/poi-5.0.0/xmlgraphics-commons-2.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sudhakar pawale/Desktop/Testing Course/VELOCITY/poi-5.0.0/xmlsec-2.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sudhakar pawale/.m2/repository/io/github/bonigarcia/webdrivermanager/4.0.0/webdrivermanager-4.0.0.jar" sourcepath="C:/Users/sudhakar pawale/.m2/repository/io/github/bonigarcia/webdrivermanager/4.0.0/webdrivermanager-4.0.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.github.bonigarcia"/>
+			<attribute name="maven.artifactId" value="webdrivermanager"/>
+			<attribute name="maven.version" value="4.0.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
