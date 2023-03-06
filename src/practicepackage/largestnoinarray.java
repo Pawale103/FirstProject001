@@ -3,7 +3,7 @@ package practicepackage;
 public class largestnoinarray {
 
 	public static void main(String[] args) {
-		int[] arr={28,3,15,9,17,4,23,2};
+		int[] arr={28,3,15,9,17,4,33,2};
 		
 		int val=arr[0];
 		
